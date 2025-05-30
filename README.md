@@ -1,1 +1,1 @@
-# My action-repo
+# action-repo
